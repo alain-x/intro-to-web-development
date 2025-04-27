@@ -10,4 +10,14 @@
   max-width: 100%;
 }
 
+.navbar {
+  padding-top:26px ;
+  padding-bottom: 26px;
+
+  padding-left:60px;
+  padding-right:60px;
+  display:flex;
+
+}
+
 /* Write your code below this */
